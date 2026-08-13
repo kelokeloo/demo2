@@ -1,0 +1,41 @@
+src/com/kelokeloo/test/entity/SuperMan.java
+  26aabc9f88624353 1-61
+src/com/kelokeloo/test/entity/TestPerson.java
+  26aabc9f88624353 1-47
+.gitignore
+  26aabc9f88624353 1-36
+src/com/kelokeloo/test/demo/FinalMethodDemo.java
+  26aabc9f88624353 1-53
+src/Main.java
+  26aabc9f88624353 1-49
+src/com/kelokeloo/test/entity/Study.java
+  26aabc9f88624353 1-5
+src/com/kelokeloo/test/entity/Person.java
+  26aabc9f88624353 1-72
+src/com/kelokeloo/test/entity/NormalPerson.java
+  26aabc9f88624353 1-17
+src/com/kelokeloo/test/demo/ObjectMethodDemo.java
+  26aabc9f88624353 1-38
+demo2.iml
+  26aabc9f88624353 1-11
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "333e6ac10cf17804d2560702cb3412c974169dd8",
+  "prompts": {
+    "26aabc9f88624353": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "56e9bd3b-c514-4aa5-919e-9edaccacda4c",
+        "model": "deepseek-v4-flash-202605"
+      },
+      "human_author": "kelokeloo <kelokeloo@163.com>",
+      "messages": [],
+      "total_additions": 389,
+      "total_deletions": 0,
+      "accepted_lines": 389,
+      "overriden_lines": 0
+    }
+  }
+}
