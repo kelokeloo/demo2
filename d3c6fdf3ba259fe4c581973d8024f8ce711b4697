@@ -1,0 +1,36 @@
+src/topics/varargs/Main.java
+  35ed8d31bf113e3c 1-97
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "d3c6fdf3ba259fe4c581973d8024f8ce711b4697",
+  "prompts": {
+    "1dc22cc50e01910b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc02db5-6ee6-4fc3-900f-a54ce8b02bcb",
+        "model": "deepseek-v4-flash"
+      },
+      "human_author": "kelokeloo <kelokeloo@163.com>",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 348,
+      "overriden_lines": 0
+    },
+    "35ed8d31bf113e3c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c1b12ed6-98c4-4a3e-90bd-e12b7590504f",
+        "model": "deepseek-v4-flash"
+      },
+      "human_author": "kelokeloo <kelokeloo@163.com>",
+      "messages": [],
+      "total_additions": 97,
+      "total_deletions": 0,
+      "accepted_lines": 97,
+      "overriden_lines": 0
+    }
+  }
+}
