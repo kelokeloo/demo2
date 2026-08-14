@@ -1,0 +1,36 @@
+src/topics/text_blocks/Main.java
+  0de517b4f3c368f4 1-141
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "73c95ef0bfae1bb1b0dc091cc67b2db96e7aa2a8",
+  "prompts": {
+    "0de517b4f3c368f4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "27c5de37-bbf3-4c65-8d29-823873f80dd0",
+        "model": "deepseek-v4-flash-202605"
+      },
+      "human_author": "kelokeloo <kelokeloo@163.com>",
+      "messages": [],
+      "total_additions": 255,
+      "total_deletions": 114,
+      "accepted_lines": 141,
+      "overriden_lines": 0
+    },
+    "35ed8d31bf113e3c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c1b12ed6-98c4-4a3e-90bd-e12b7590504f",
+        "model": "deepseek-v4-flash"
+      },
+      "human_author": "kelokeloo <kelokeloo@163.com>",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 0,
+      "overriden_lines": 0
+    }
+  }
+}
