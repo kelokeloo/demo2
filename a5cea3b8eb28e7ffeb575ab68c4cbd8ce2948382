@@ -1,0 +1,45 @@
+rules/code-organization.md
+  1dc22cc50e01910b 1-58
+src/common/SuperMan.java
+  1dc22cc50e01910b 1
+src/topics/object_methods/Main.java
+  1dc22cc50e01910b 1,3-4,6
+src/topics/field_shadowing/TestPerson.java
+  1dc22cc50e01910b 1-3
+src/topics/field_shadowing/Main.java
+  1dc22cc50e01910b 1-47
+src/topics/polymorphism/Main.java
+  1dc22cc50e01910b 1-5
+src/topics/final_keyword/Main.java
+  1dc22cc50e01910b 1,3
+src/common/Person.java
+  1dc22cc50e01910b 1
+src/common/NormalPerson.java
+  1dc22cc50e01910b 1
+CLAUDE.md
+  1dc22cc50e01910b 1-3
+AGENTS.md
+  1dc22cc50e01910b 1-16
+src/common/Study.java
+  1dc22cc50e01910b 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "a5cea3b8eb28e7ffeb575ab68c4cbd8ce2948382",
+  "prompts": {
+    "1dc22cc50e01910b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3cc02db5-6ee6-4fc3-900f-a54ce8b02bcb",
+        "model": "deepseek-v4-flash"
+      },
+      "human_author": "kelokeloo <kelokeloo@163.com>",
+      "messages": [],
+      "total_additions": 473,
+      "total_deletions": 343,
+      "accepted_lines": 472,
+      "overriden_lines": 0
+    }
+  }
+}
