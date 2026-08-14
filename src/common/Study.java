@@ -1,4 +1,4 @@
-package com.kelokeloo.test.entity;
+package common;
 
 public interface Study {
     void study();

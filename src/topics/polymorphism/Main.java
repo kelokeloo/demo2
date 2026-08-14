@@ -1,4 +1,8 @@
-import com.kelokeloo.test.entity.*;
+package topics.polymorphism;
+
+import common.NormalPerson;
+import common.Person;
+import common.SuperMan;
 
 /**
  * 程序入口。

@@ -1,4 +1,4 @@
-package com.kelokeloo.test.entity;
+package common;
 
 /**
  * 超人实体类，继承自 {@link Person}。

@@ -1,4 +1,4 @@
-package com.kelokeloo.test.entity;
+package common;
 
 import java.util.Objects;
 

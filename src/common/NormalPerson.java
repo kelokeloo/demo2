@@ -1,4 +1,4 @@
-package com.kelokeloo.test.entity;
+package common;
 
 public class NormalPerson extends Person {
 

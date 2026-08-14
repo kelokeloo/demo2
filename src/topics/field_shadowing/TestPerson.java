@@ -1,4 +1,6 @@
-package com.kelokeloo.test.entity;
+package topics.field_shadowing;
+
+import common.SuperMan;
 
 /**
  * 测试用实体类，继承自 {@link SuperMan}。

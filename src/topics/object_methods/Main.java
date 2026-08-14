@@ -1,9 +1,9 @@
-package com.kelokeloo.test.demo;
+package topics.object_methods;
 
-import com.kelokeloo.test.entity.NormalPerson;
-import com.kelokeloo.test.entity.Person;
+import common.NormalPerson;
+import common.Person;
 
-public class ObjectMethodDemo {
+public class Main {
 
     public static void main(String[] args) {
         System.out.println("===== 1. toString：什么时候被自动调用 =====");

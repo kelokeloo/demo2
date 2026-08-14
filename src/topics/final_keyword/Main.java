@@ -1,6 +1,6 @@
-package com.kelokeloo.test.demo;
+package topics.final_keyword;
 
-public class FinalMethodDemo {
+public class Main {
 
     public static void main(String[] args) {
         System.out.println("===== 1. final 方法仍然可以被重载（重载和 final 无关） =====");
