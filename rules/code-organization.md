@@ -55,4 +55,6 @@ demo2/src/
 | Object 方法 | `topics.object_methods` | `Main.java` | toString/equals/hashCode/clone |
 | final 关键字 | `topics.final_keyword` | `Main.java` | Animal/Report 为内部类 |
 | 字段遮蔽 | `topics.field_shadowing` | `Main.java` | 含 `TestPerson`（演示三层 name） |
+| 静态内部类 | `topics.inner_class` | `Main.java` | 辅助类/单例 Holder，对比成员内部类 |
+| 匿名内部类 | `topics.anonymous_inner_class` | `Main.java` | 回调 Button/Runnable/Comparator，对比 lambda |
 | —（共享） | `common` | — | `Person` / `NormalPerson` / `SuperMan` / `Study` |
