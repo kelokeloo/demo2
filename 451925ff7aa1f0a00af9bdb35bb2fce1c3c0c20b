@@ -1,0 +1,40 @@
+src/topics/inner_class/Main.java
+  c421ce31c1302e7e 1-149
+src/topics/anonymous_inner_class/Main.java
+  c421ce31c1302e7e 1-70
+rules/code-organization.md
+  c421ce31c1302e7e 58-59
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "451925ff7aa1f0a00af9bdb35bb2fce1c3c0c20b",
+  "prompts": {
+    "0de517b4f3c368f4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "27c5de37-bbf3-4c65-8d29-823873f80dd0",
+        "model": "deepseek-v4-flash-202605"
+      },
+      "human_author": "kelokeloo <kelokeloo@163.com>",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 0,
+      "overriden_lines": 0
+    },
+    "c421ce31c1302e7e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d4eabb5e-99ae-41a6-a1ba-6021c95eebe2",
+        "model": "deepseek-v4-flash"
+      },
+      "human_author": "kelokeloo <kelokeloo@163.com>",
+      "messages": [],
+      "total_additions": 351,
+      "total_deletions": 90,
+      "accepted_lines": 221,
+      "overriden_lines": 0
+    }
+  }
+}
