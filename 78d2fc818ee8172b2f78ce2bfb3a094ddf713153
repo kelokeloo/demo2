@@ -1,0 +1,36 @@
+docs/java-method-reference-vs-kotlin.md
+  35fc7d0382398726 1-106
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "78d2fc818ee8172b2f78ce2bfb3a094ddf713153",
+  "prompts": {
+    "35fc7d0382398726": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8ef2dfa4-0e1a-43b9-b7f3-7e35b440c706",
+        "model": "deepseek-v4-flash-202605"
+      },
+      "human_author": "kelokeloo <kelokeloo@163.com>",
+      "messages": [],
+      "total_additions": 133,
+      "total_deletions": 17,
+      "accepted_lines": 125,
+      "overriden_lines": 0
+    },
+    "c421ce31c1302e7e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d4eabb5e-99ae-41a6-a1ba-6021c95eebe2",
+        "model": "deepseek-v4-flash"
+      },
+      "human_author": "kelokeloo <kelokeloo@163.com>",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 0,
+      "overriden_lines": 0
+    }
+  }
+}
