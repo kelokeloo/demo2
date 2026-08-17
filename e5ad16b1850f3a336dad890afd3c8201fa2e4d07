@@ -1,0 +1,23 @@
+src/topics/method_reference/Main.java
+  35fc7d0382398726 1-119
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "e5ad16b1850f3a336dad890afd3c8201fa2e4d07",
+  "prompts": {
+    "35fc7d0382398726": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8ef2dfa4-0e1a-43b9-b7f3-7e35b440c706",
+        "model": "deepseek-v4-flash-202605"
+      },
+      "human_author": "kelokeloo <kelokeloo@163.com>",
+      "messages": [],
+      "total_additions": 119,
+      "total_deletions": 0,
+      "accepted_lines": 135,
+      "overriden_lines": 4
+    }
+  }
+}
