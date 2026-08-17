@@ -1,0 +1,62 @@
+src/exercises/bubble_sort/Main.java
+  f774a72d89131d85 1-43
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "6288abf7524c9b93cec023c6dca3597b370b482a",
+  "prompts": {
+    "2d467f0e33a5c67d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ef72cb88-a9e5-4348-8841-73b09834ec82",
+        "model": "deepseek-v4-flash-202605"
+      },
+      "human_author": "kelokeloo <kelokeloo@163.com>",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 39,
+      "accepted_lines": 1,
+      "overriden_lines": 0
+    },
+    "35fc7d0382398726": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8ef2dfa4-0e1a-43b9-b7f3-7e35b440c706",
+        "model": "deepseek-v4-flash-202605"
+      },
+      "human_author": "kelokeloo <kelokeloo@163.com>",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 12,
+      "overriden_lines": 0
+    },
+    "9d65b9b86783c6f4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c4df8536-31fe-47c5-8c0f-40a7dbfe269e",
+        "model": "deepseek-v4-flash-202605"
+      },
+      "human_author": "kelokeloo <kelokeloo@163.com>",
+      "messages": [],
+      "total_additions": 155,
+      "total_deletions": 77,
+      "accepted_lines": 78,
+      "overriden_lines": 0
+    },
+    "f774a72d89131d85": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "628a987b-8422-4e4d-8349-66ca1d2778eb",
+        "model": "deepseek-v4-flash-202605"
+      },
+      "human_author": "kelokeloo <kelokeloo@163.com>",
+      "messages": [],
+      "total_additions": 43,
+      "total_deletions": 0,
+      "accepted_lines": 43,
+      "overriden_lines": 0
+    }
+  }
+}
