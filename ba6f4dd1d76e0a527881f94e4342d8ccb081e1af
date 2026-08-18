@@ -1,0 +1,36 @@
+src/exercises/hanoi_tower/Main.java
+  7b45ebc05163ae9a 1-36
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "ba6f4dd1d76e0a527881f94e4342d8ccb081e1af",
+  "prompts": {
+    "194ed8eca39ce27e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8a17a843-d303-4c03-803d-ed11c4f98c6e",
+        "model": "deepseek-v4-flash-202605"
+      },
+      "human_author": "kelokeloo <kelokeloo@163.com>",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 0,
+      "overriden_lines": 0
+    },
+    "7b45ebc05163ae9a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "cfb1cc77-9878-4247-9ac2-6d2564d45a88",
+        "model": "deepseek-v4-flash-202605"
+      },
+      "human_author": "kelokeloo <kelokeloo@163.com>",
+      "messages": [],
+      "total_additions": 37,
+      "total_deletions": 1,
+      "accepted_lines": 36,
+      "overriden_lines": 0
+    }
+  }
+}
