@@ -1,0 +1,55 @@
+src/topics/Exception/BussinessException.java
+  9d65b9b86783c6f4 1-7
+src/topics/Exception/Main.java
+  9d65b9b86783c6f4 1-4
+src/topics/Exception/TestException.java
+  9d65b9b86783c6f4 1-4
+src/exercises/frog_jump/Main.java
+  f01b7c44128600f2 1-56
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "7a04dba019c644532d9af5e38e6ee03b9b7ac2d1",
+  "prompts": {
+    "9d65b9b86783c6f4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c4df8536-31fe-47c5-8c0f-40a7dbfe269e",
+        "model": "deepseek-v4-flash-202605"
+      },
+      "human_author": "kelokeloo <kelokeloo@163.com>",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 78,
+      "overriden_lines": 0
+    },
+    "f01b7c44128600f2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "696a984d-2885-488c-a5ec-8d1ad74696f1",
+        "model": "deepseek-v4-flash"
+      },
+      "human_author": "kelokeloo <kelokeloo@163.com>",
+      "messages": [],
+      "total_additions": 61,
+      "total_deletions": 5,
+      "accepted_lines": 56,
+      "overriden_lines": 0
+    },
+    "f774a72d89131d85": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "628a987b-8422-4e4d-8349-66ca1d2778eb",
+        "model": "deepseek-v4-flash-202605"
+      },
+      "human_author": "kelokeloo <kelokeloo@163.com>",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 17,
+      "overriden_lines": 0
+    }
+  }
+}
