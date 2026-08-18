@@ -1,0 +1,23 @@
+src/exercises/frog_jump/Main.java
+  f01b7c44128600f2 1-56
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "43abb3ca058ad950e88ac324f5940b29b032d363",
+  "prompts": {
+    "f01b7c44128600f2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "696a984d-2885-488c-a5ec-8d1ad74696f1",
+        "model": "deepseek-v4-flash"
+      },
+      "human_author": "kelokeloo <kelokeloo@163.com>",
+      "messages": [],
+      "total_additions": 56,
+      "total_deletions": 0,
+      "accepted_lines": 56,
+      "overriden_lines": 0
+    }
+  }
+}
