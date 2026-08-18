@@ -1,0 +1,27 @@
+AGENTS.md
+  194ed8eca39ce27e 8
+rules/code-organization.md
+  194ed8eca39ce27e 3,8-11,18-24,36-37,51,65-73
+CLAUDE.md
+  194ed8eca39ce27e 3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "6202e8eeaf5821f1c63dc05524f1163343759d3f",
+  "prompts": {
+    "194ed8eca39ce27e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8a17a843-d303-4c03-803d-ed11c4f98c6e",
+        "model": "deepseek-v4-flash-202605"
+      },
+      "human_author": "kelokeloo <kelokeloo@163.com>",
+      "messages": [],
+      "total_additions": 26,
+      "total_deletions": 11,
+      "accepted_lines": 26,
+      "overriden_lines": 0
+    }
+  }
+}
