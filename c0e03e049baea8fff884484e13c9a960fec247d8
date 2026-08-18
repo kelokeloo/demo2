@@ -1,0 +1,23 @@
+src/exercises/binary_search/Main.java
+  f774a72d89131d85 1-42
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "c0e03e049baea8fff884484e13c9a960fec247d8",
+  "prompts": {
+    "f774a72d89131d85": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "628a987b-8422-4e4d-8349-66ca1d2778eb",
+        "model": "deepseek-v4-flash-202605"
+      },
+      "human_author": "kelokeloo <kelokeloo@163.com>",
+      "messages": [],
+      "total_additions": 42,
+      "total_deletions": 0,
+      "accepted_lines": 59,
+      "overriden_lines": 0
+    }
+  }
+}
