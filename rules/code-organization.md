@@ -61,6 +61,7 @@ demo2/src/
 | 字段遮蔽 | `topics.field_shadowing` | `Main.java` | 含 `TestPerson`（演示三层 name） |
 | 静态内部类 | `topics.inner_class` | `Main.java` | 辅助类/单例 Holder，对比成员内部类 |
 | 匿名内部类 | `topics.anonymous_inner_class` | `Main.java` | 回调 Button/Runnable/Comparator，对比 lambda |
+| 泛型通配符 | `topics.generic_wildcards` | `Main.java` | 上界 ? extends / 下界 ? super / PECS |
 | —（共享） | `common` | — | `Person` / `NormalPerson` / `SuperMan` / `Study` |
 
 ### 练习（exercises/）
