@@ -5,6 +5,7 @@ import java.util.List;
 import java.util.function.BiFunction;
 import java.util.function.Consumer;
 import java.util.function.Function;
+import java.util.function.Predicate;
 import java.util.function.Supplier;
 
 /**
@@ -16,6 +17,7 @@ import java.util.function.Supplier;
  *   Consumer<T>    有参无返回值  void accept(T)         —— 消费/副作用
  *   Function<T,R>  T 进 R 出     R apply(T)             —— 转换
  *   BiFunction<T,U,R>  两参一返回 R apply(T, U)         —— 双参转换
+ *   Predicate<T>   有参返 boolean  boolean test(T)      —— 判断/筛选
  *
  * 特点：自带默认方法做组合（andThen 串联、compose 反向）；
  * 有原始类型/双参变体；可直接接方法引用（见 topics.method_reference）。
@@ -59,5 +61,19 @@ public class Main {
         // BiFunction 同样支持 andThen
         BiFunction<Integer, Integer, Integer> addThenDouble = add.andThen(n -> n * 2);
         System.out.println(addThenDouble.apply(3, 4));        // 14
+
+        // ===== 5. Predicate —— 有参返 boolean：判断/筛选 =====
+        Predicate<Integer> isEven = n -> n % 2 == 0;
+        System.out.println(isEven.test(4));                   // true
+        System.out.println(isEven.test(5));                   // false
+
+        // 默认方法组合：and（且）/ or（或）/ negate（取反）
+        Predicate<Integer> positive = n -> n > 0;
+        System.out.println(isEven.and(positive).test(4));     // true
+        System.out.println(isEven.negate().test(5));          // true
+
+        // 经典场景：Stream.filter —— 把 Predicate 传进去筛选
+        System.out.println(List.of(1, 2, 3, 4, 5, 6)
+                .stream().filter(isEven).toList());           // [2, 4, 6]
     }
 }
