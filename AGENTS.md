@@ -12,6 +12,7 @@
 
 ## 详细规范
 
-见 [`rules/code-organization.md`](rules/code-organization.md)。
+- 代码组织：见 [`rules/code-organization.md`](rules/code-organization.md)。
+- 精简风格：见 [`rules/code-style.md`](rules/code-style.md)。
 
 > 本文件遵循"简要 + 索引"原则，不放长内容；更细的规则一律落到 `rules/` 下。
